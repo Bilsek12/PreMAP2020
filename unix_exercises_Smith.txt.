@@ -1,0 +1,28 @@
+2a. ~/Astro192
+
+4a. Six files
+
+4b. StarCharts.pdf
+
+4c. ls -S
+
+5a. cp StarHeader.txt junk.dat
+
+6a. mv junk.dat junque.dat
+
+7a. rm junque.dat
+
+8a. cat StarHeader.txt
+
+8b. Stars that are bright in the night sky
+
+9a. echo Bilal > small.dat
+
+10a. head -100 BrightStars.dat > small.dat
+
+11a. tail -10 BrightStars.dat >> small.dat
+
+12a. BrightStars.dat has 5016 lines, and small.dat has 110 lines
+
+12b. wc BrightStars.dat
+     wc small.dat
